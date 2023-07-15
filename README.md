@@ -3,6 +3,7 @@ Learn the foundational skills of security engineering and provide an overview of
 # Course 1: Security Engineering Fundamentals
 Learn fundamental concepts and practices of security engineering. These are the basic principles and properties a security engineer will apply when evaluating, prioritizing and communicating security topics. Additionally, Learn about the practical applications of cryptography and about strategies for risk evaluation, security review and audit.
 ## Contents
+***
 * What is Security Engineering?
 * Security Principles
 * Risk Evaluation
