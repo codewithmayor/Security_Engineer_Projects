@@ -10,7 +10,7 @@ Learn fundamental concepts and practices of security engineering. These are the 
 ## Project
 * TimeSheets Threat Model
 # Course 2: System Security
-Exploring the basics of system security and its implementation at the operating system level. Learn about implementing authentication and authorization as a means to protect access to data and services. Also, learn about detecting unauthorized changes to a system and how to effectively counter them. By the end, I have understood how to build logging, monitoring and auditing tools that can alert you to system security breaches and how to effectively counter them in a real-world case.
+Exploring the basics of system security and its implementation at the operating system level. Learn about implementing authentication and authorization as a means to protect access to data and services. Also, learn about detecting unauthorized changes to a system and how to effectively counter them. I have understood how to build logging, monitoring and auditing tools that can alert you to system security breaches and how to effectively counter them in a real-world case.
 ## Contents
 * Identifying Vulnerabilities
 * Authentication
