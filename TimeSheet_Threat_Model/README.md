@@ -1,10 +1,14 @@
 # TimeSheets Security Assessment
 
 
-## Role: Simulated an employee within a company relying on the custom application, 'TimeSheets', for timesheet logging.
+## Role: 
+
+Simulated an employee within a company relying on the custom application, 'TimeSheets', for timesheet logging.
 
 
-## Context: After external exposure, observed odd behavior, including unauthorized logins and incorrect data reported by users.
+## Context: 
+
+After external exposure, observed odd behavior, including unauthorized logins and incorrect data reported by users.
 
 
 ## Tasks:
