@@ -1,13 +1,17 @@
-Adversarial Resilience: Assessing Infrastructure Security
+# Adversarial Resilience: Assessing Infrastructure Security
 
 
-• Role: Evaluated the integration of 'StaticSpeeds' systems into "NuttyUtility's" extended network.
+## Role: 
+
+Evaluated the integration of 'StaticSpeeds' systems into "NuttyUtility's" extended network.
 
 
-• Context: 'StaticSpeeds', recently acquired by 'NuttyUtility', needed a security assessment to determine integration feasibility.
+## Context: 
+
+'StaticSpeeds', recently acquired by 'NuttyUtility', needed a security assessment to determine integration feasibility.
 
 
-• Tasks:
+## Tasks:
 
 • Checked CIS Benchmarks for Windows and Linux operating systems at 'StaticSpeeds'.
 
