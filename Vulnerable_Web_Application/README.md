@@ -1,13 +1,17 @@
-Vulnerable Web Application Security Audit
+# Vulnerable Web Application Security Audit
 
 
-• Role: Acted as an employee for 'USociety', responding to a critical security breach reported by a hacker group.
+## Role: 
+
+Acted as an employee for 'USociety', responding to a critical security breach reported by a hacker group.
 
 
-• Context: 'USociety' faced a high-priority security audit following a reported data breach by a well-known hacker group.
+## Context:
+
+'USociety' faced a high-priority security audit following a reported data breach by a well-known hacker group.
 
 
-• Tasks:
+## Tasks:
 
 • Reviewed static code to identify and prioritize vulnerabilities in the web application.
 
